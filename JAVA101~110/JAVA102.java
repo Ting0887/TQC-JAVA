@@ -1,4 +1,4 @@
-//102 ³æ¦ì´«ºâ 
+//102 å–®ä½æ›ç®—
 import java.util.Scanner;
 public class JAVA102 {
 	
