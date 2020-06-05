@@ -1,4 +1,4 @@
-//202 ¤ñ¸û¤j¤p
+//202 æ¯”è¼ƒå¤§å°
 import java.util.*;
 public class JAVA202 {
 	
