@@ -1,4 +1,4 @@
-//107 ¹B°Ê¦¨ÁZ 
+//107 é‹å‹•æˆç¸¾  
 public class JAVA107 {
 
 	public static void main(String argv[]) {
