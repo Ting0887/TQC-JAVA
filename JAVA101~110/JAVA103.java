@@ -1,4 +1,4 @@
-//103 ­pºâ¥­§¡­È
+//103  è¨ˆç®—å¹³å‡å€¼ 
 import java.util.Scanner;
 
 public class JAVA103 {
