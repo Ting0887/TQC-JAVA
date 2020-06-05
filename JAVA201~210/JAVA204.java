@@ -1,4 +1,4 @@
-//204 ¤½­¿¼Æ­pºâ 
+//204 å…¬å€æ•¸è¨ˆç®— 
 import java.util.*;
 public class JAVA204 {
 	
