@@ -1,4 +1,4 @@
-//106 �ƾǨ�� 
+//106 數學函數 
 public class JAVA106 {
 
 	public static void main(String[] args) {
