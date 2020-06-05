@@ -1,4 +1,4 @@
-//108 ÂÐ¸ü¤èªk 
+//108 è¦†è¼‰æ–¹æ³•
 public class JAVA108 {
 	
 	 static int add(int i, int j) {
