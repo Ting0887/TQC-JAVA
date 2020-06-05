@@ -1,4 +1,4 @@
-//210 Áä½L¦r¤¸§PÂ_
+//210 éµç›¤å­—å…ƒåˆ¤æ–·
 import java.util.*;
 public class JAVA210 {
 	
