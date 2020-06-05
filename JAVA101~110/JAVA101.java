@@ -1,4 +1,4 @@
-//101¦r¦ê¦C¦L
+//101 å­—ä¸²åˆ—å° 
 public class JAVA101 {
 
 	public static void main(String[] args) {
