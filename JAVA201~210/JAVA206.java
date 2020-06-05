@@ -1,4 +1,4 @@
-//206 ¤Î®æ¤À¼Æ 
+//206 åŠæ ¼åˆ†æ•¸ 
 import java.util.*;
 public class JAVA206 {
 	static Scanner keyboard= new Scanner(System.in);
