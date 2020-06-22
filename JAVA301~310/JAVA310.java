@@ -1,4 +1,5 @@
-//���D�D�حn�D�ϥ�do-while-loop 
+//此題題目要求使用do-while-loop 
+//310 迴圈正偶數相加
 import java.util.*;
 public class JAVA310 {
 	
@@ -7,21 +8,21 @@ public class JAVA310 {
 	public static void main(String[] args) {
 		int num = 2,sum = 0;
 		int size = 0;
-		//�����ϥΪ̿�Jn��
-		System.out.println("�п�Jn����(n>0�A�B������): ");
+		//先讓使用者輸入n值
+		System.out.println("請輸入n的值(n>0，且為偶數): ");
 		size = input.nextInt(); 
-		//�ˬdn�ȬO�_�j��s�B�����ơA�Y���ŦX�K�@�A���s�n�D��J 
+		//檢查n值是否大於零且為偶數，若不符合便一再重新要求輸入 
 		while(size<=0||size%2!=0) {
 			
-			 System.out.print("�п�Jn����(n>0�A�B������)�G");      
+			 System.out.print("請輸入n的值(n>0，且為偶數)：");      
 			 size = input.nextInt();   
 		}
-		 //�}�l�i��֥[�ʧ@ 
+		 //開始進行累加動作 
 		do {
 			sum = num +sum;  
 			num += 2;  
 			
-		}while(num<=size);//���֥[�Ϊ��ܼƤj��ϥΪ̿�J���ȫK����
+		}while(num<=size);//當累加用的變數大於使用者輸入的值便停止
 		 
 		 System.out.printf("%d+%d+...+%d=%d", 2,4,size,sum); 
 		
