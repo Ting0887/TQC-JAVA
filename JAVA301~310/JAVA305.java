@@ -1,4 +1,4 @@
-//305 °j°é¶¥­¼­pºâ
+//305 è¿´åœˆéšŽä¹˜è¨ˆç®—
 import java.util.*;
 public class JAVA305 {
 	
