@@ -1,4 +1,4 @@
-//306 °j°é¦¸¤è­pºâ
+//306 è¿´åœˆæ¬¡æ–¹è¨ˆç®—
 import java.util.*;
 public class JAVA306 {
 	
