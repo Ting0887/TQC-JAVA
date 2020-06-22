@@ -1,4 +1,4 @@
-//309 �j�魿�ƧP�_
+//309 迴圈倍數判斷
 import java.util.*;
 public class JAVA309 {
 	
