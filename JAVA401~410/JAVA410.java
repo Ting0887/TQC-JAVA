@@ -1,4 +1,4 @@
-//410 »¼°j¦r¦ê´À´«
+//410 éè¿´å­—ä¸²æ›¿æ› 
 import java.util.Scanner;
 public class JAVA410 {
 	static Scanner sc = new Scanner(System.in);
