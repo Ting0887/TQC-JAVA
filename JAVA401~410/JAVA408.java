@@ -1,4 +1,4 @@
-//408 »¼°j¦r¦ê¤Ï¦V
+//408 éè¿´å­—ä¸²åå‘ 
 import java.util.*;
 public class JAVA408 {
 	static Scanner sc = new Scanner(System.in);
