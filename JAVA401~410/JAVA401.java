@@ -1,0 +1,26 @@
+//401 »¼°j¶¥­¼­pºâ 
+import java.util.*;
+public class JAVA401 {
+	
+	static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		int n=0;
+		while(n!=999) {
+			System.out.print("Input n (0 <= n <= 16):");
+			n = sc.nextInt();
+			if(n!=999) {
+				System.out.println(n + "ªº¶¥­¼ = " + fac(n));
+				}
+			}
+		}
+	static int fac(int n) {
+		if(n==0) {
+			return 1;
+		}
+		else {
+			return n*fac(n-1);
+		}
+	}
+
+}
