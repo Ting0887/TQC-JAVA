@@ -1,4 +1,4 @@
-//405 »¼°j¨ç¼Æ
+//405 éè¿´å‡½æ•¸ 
 import java.util.Scanner;
 public class JAVA405 {
 	static Scanner sc = new Scanner(System.in);
