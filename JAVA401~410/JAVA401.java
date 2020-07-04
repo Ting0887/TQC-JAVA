@@ -1,4 +1,4 @@
-//401 »¼°j¶¥­¼­pºâ 
+//401 éè¿´éšä¹˜è¨ˆç®— 
 import java.util.*;
 public class JAVA401 {
 	
@@ -10,7 +10,7 @@ public class JAVA401 {
 			System.out.print("Input n (0 <= n <= 16):");
 			n = sc.nextInt();
 			if(n!=999) {
-				System.out.println(n + "ªº¶¥­¼ = " + fac(n));
+				System.out.println(n + "ÂªÂºÂ¶Â¥Â­Â¼ = " + fac(n));
 				}
 			}
 		}
