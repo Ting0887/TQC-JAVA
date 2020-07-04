@@ -1,4 +1,4 @@
-//406 »¼°j¦r¦ê­pºâ 
+//406 éè¿´å­—ä¸²è¨ˆç®— 
 import java.util.Scanner;
 public class JAVA406 {
 	static Scanner sc= new Scanner(System.in);
