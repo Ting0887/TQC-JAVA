@@ -1,4 +1,4 @@
-//509 ��ܱƧǪk 
+//509 選擇排序法 
 public class JAVA509 {
 
 	public static void main(String[] args) {
