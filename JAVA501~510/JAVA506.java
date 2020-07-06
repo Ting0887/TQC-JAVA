@@ -1,4 +1,4 @@
-//506 ¤Tºû°}¦C¤¸¯À¤§©M 
+//506 ä¸‰ç¶­é™£åˆ—å…ƒç´ ä¹‹å’Œ
 public class JAVA506 {
 
 	public static void main(String[] args) {
