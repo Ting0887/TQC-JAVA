@@ -1,4 +1,4 @@
-//504 ¶O¤ó¼Æ 
+//504 è²»æ°æ•¸ 
 public class JAVA504 {
 
 	public static void main(String[] args) {
