@@ -1,4 +1,4 @@
-//508 �w�w�ƧǪk 
+//508 泡泡排序法 
 public class JAVA508 {
 
 	public static void main(String[] args) {
