@@ -1,7 +1,7 @@
 //510 二分搜尋法 
 import java.util.*;
 public class JAVA510 {
-	static Scanner keyboard = new Scanner(System.in);
+	private static Scanner keyboard = new Scanner(System.in);
 	public static void main(String[] args) {
 		search();
 		search();
@@ -24,21 +24,25 @@ public class JAVA510 {
 			
 			System.out.printf("尋找區間: %d(%d)..%d(%d),中間: %d(%d)\n",left,data[left],right,data[right],middle,data[middle]);
 			
-			if(target==data[middle])
+			times++;
+
+			if(target==data[middle]){
 				break;
-			if(target<data[middle])
+			}
+			if(target<data[middle]){
 				right = middle - 1;
-			else
+			}
+			else{
 				left = middle + 1;
-			times ++;
+			}
 		}
-		System.out.printf("經過%d次的尋找\n",times);
+		System.out.printf("經過 %d 次的尋找\n",times);
 		
 		if(target==data[middle]) {
 			System.out.printf("您要找的資料在陣列中的第%d個位置\n", middle);
 		}
 		else {
-			 System.out.printf("%d不在陣列中", target);
+			 System.out.printf("%d不在陣列中\n", target);
 		}
 	}
 

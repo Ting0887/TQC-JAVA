@@ -7,15 +7,15 @@ public class JAVA503 {
 		int B[][] = {{7,8,9},{10,11,12}};
 		int C[][] = new int[row][col];
 		
-		System.out.println("陣列A的內容為(2x3)：\n");
+		System.out.printf("陣列A的內容為(2x3)：\n");
 		show(A);
 		
-		System.out.println("\n陣列B的內容為(2x3)：\n");
+		System.out.printf("\n陣列B的內容為(2x3)：\n");
 		show(B);
 		
 		add(A,B,C);
 		
-		System.out.println("\n陣列A+B=C，陣列C的內容為(3x3)：\n");
+		System.out.printf("\n陣列A+B=C，陣列C的內容為(3x3)：\n");
 		show(C);
 
 	}

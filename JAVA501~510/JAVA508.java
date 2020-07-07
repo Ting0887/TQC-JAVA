@@ -14,7 +14,7 @@ public class JAVA508 {
 				}
 			}
 			for(int A=0;A<=LN;A++) {
-				System.out.print(data[A]+" ");
+				System.out.printf(" %d",data[A]);
 			}
 			System.out.println();
 		}
