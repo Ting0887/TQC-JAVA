@@ -19,7 +19,7 @@ public class JAVA404 {
 			return m;
 		}
 		else {
-			return gcd(m,m%n);
+			return gcd(n,m%n);
 		}
 	}
 

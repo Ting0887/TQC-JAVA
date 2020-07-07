@@ -10,7 +10,7 @@ public class JAVA401 {
 			System.out.print("Input n (0 <= n <= 16):");
 			n = sc.nextInt();
 			if(n!=999) {
-				System.out.println(n + "ªº¶¥­¼ = " + fac(n));
+				System.out.println(n + "的階乘 = " + fac(n));
 				}
 			}
 		}

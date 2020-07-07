@@ -8,6 +8,10 @@ public class JAVA406 {
 		s = sc.nextLine();
 		System.out.printf("%s has %d As",s,countA(s));
 
+		System.out.print("\nInput a string: ");
+		s = sc.nextLine();
+		System.out.printf("%s has %d As",s,countA(s));
+
 	}
 	static int countA(String s) {
 		if(s.isEmpty()) {

@@ -10,6 +10,13 @@ public class JAVA409 {
 		c = sc.nextLine();
 		
 		System.out.printf("%s\n",removeChar(s,c));
+		
+		System.out.print("Input a string: ");
+		s = sc.nextLine();
+		System.out.print("Input a character: ");
+		c = sc.nextLine();
+		
+		System.out.printf("%s\n",removeChar(s,c));
 	}
 	static String removeChar(String s,String c) {
 		if(s.isEmpty()) {

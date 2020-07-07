@@ -12,7 +12,7 @@ public class JAVA403 {
 			n = sc.nextInt();
 			
 			System.out.println("Ans¡]§ÀºÝ»¼°j¡^: "+powerTail(m,n,1));
-			System.out.println("Ans¡]°j°é¡^:"+powerLoop(m,n,1));
+			System.out.println("Ans¡]°j°é¡^: "+powerLoop(m,n,1));
 			}
 		}
 	}
