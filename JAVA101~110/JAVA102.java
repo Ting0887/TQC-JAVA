@@ -6,7 +6,7 @@ public class JAVA102 {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Please input:");
+		System.out.print("Please input: ");
 		double kilo,pound;
 		kilo = scanner.nextDouble();
 		pound = kilo*2.20462;
