@@ -12,7 +12,7 @@ public class JAVA110 {
 
 	}
 	static double calCircle(double r) {
-		return r*r*Math.PI;
+		return r*r*3.1415926;
 
     }
 

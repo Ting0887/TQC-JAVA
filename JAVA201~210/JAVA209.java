@@ -16,9 +16,9 @@ public class JAVA209 {
 	}
 	public static void test() {
 		double x,y;
-		System.out.println("請輸入x座標: ");
+		System.out.print("請輸入x座標:");
 		x = keyboard.nextDouble();
-		System.out.println("請輸入y座標: ");
+		System.out.print("請輸入y座標:");
 		y = keyboard.nextDouble();
 		
 		if (y==0.0) {

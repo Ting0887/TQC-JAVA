@@ -13,13 +13,13 @@ public class JAVA206 {
 	static void test() {
 		int chi, eng, math;
 		
-		System.out.println("Input Chinese score:");
+		System.out.print("Input Chinese score:");
 		chi = keyboard.nextInt();
 		
-		System.out.println("Input English score:");
+		System.out.print("Input English score:");
 		eng = keyboard.nextInt();
 		
-		System.out.println("Input Math score:");
+		System.out.print("Input Math score:");
 		math = keyboard.nextInt();
 		
 		if (chi>=60 & eng>=60 & math>=60) {
