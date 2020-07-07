@@ -12,7 +12,7 @@ public class JAVA105 {
       int totalt;
       
       Scanner keyboard = new Scanner(System.in);
-      System.out.print("請輸入小孩姓名：");
+      System.out.print("請輸入您的姓名:");
       name = keyboard.next();
       System.out.printf("Hi, %s,請輸入你的銅板的個數：\n",name);
       System.out.print("請輸入1元的數量：");

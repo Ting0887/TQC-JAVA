@@ -16,7 +16,7 @@ public class JAVA104 {
 		y2 = scanner.nextDouble();
 		
 		distance = Math.sqrt(Math.pow(x1-x2,2)+Math.pow(y1-y2,2));
-		System.out.printf("介於(%.2f,%.2f)和(%.2f,%.2f)之間的距離是 %.2f。 \n",x1,y1,x2,y2,distance);
+		System.out.printf("介於(%.2f,%.2f)和(%.2f,%.2f)之間的距離是%.2f。 \n",x1,y1,x2,y2,distance);
 
 	}
 
