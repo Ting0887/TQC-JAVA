@@ -8,7 +8,7 @@ public class JAVA309 {
 		// continue
 		int n;
 		int total = 0;
-		System.out.println("");
+		
 		n = input.nextInt();
 		
 		for (int i=1;i<=n;i++) {

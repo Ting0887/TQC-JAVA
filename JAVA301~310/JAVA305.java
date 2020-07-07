@@ -15,7 +15,7 @@ public class JAVA305 {
 		int n;
 		int total = 1;
 		int i = 1;
-		System.out.println("Please enter one value: ");
+		System.out.print("Please enter one value: ");
 		n = keyboard.nextInt();
 		if(n>=1 && n<=10) {
 			
@@ -23,7 +23,7 @@ public class JAVA305 {
 				total *= i;
 				i = i + 1;
 			}
-			System.out.println(n + "!:" + total);
+			System.out.println(n + "!: " + total);
 			
 		}else {
 			System.out.println("Error, the value is out of range.");
