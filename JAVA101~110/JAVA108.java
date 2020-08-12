@@ -19,9 +19,9 @@ public class JAVA108 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i = add(2,3);
-        double d = add(5.2,4.3);
-        String s = add("I love" , " Java!!");
-        System.out.printf("%d %f %s\n", i, d, s);
+        	double d = add(5.2,4.3);
+        	String s = add("I love" , " Java!!");
+        	System.out.printf("%d %f %s\n", i, d, s);
 	}
         
  }
