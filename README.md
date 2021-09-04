@@ -1,2 +1,2 @@
 # TQC+JAVA
-#目前在練習狀態
+# practice tqc+java by myself
