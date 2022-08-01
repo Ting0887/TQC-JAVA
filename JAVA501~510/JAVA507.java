@@ -1,4 +1,4 @@
-//507 °±¨®¶O¥Î­pºâ 
+//507 åœè»Šè²»ç”¨è¨ˆç®— 
 public class JAVA507 {
 
 	public static void main(String[] args) {
@@ -24,14 +24,24 @@ public class JAVA507 {
 		int fee = 0;
 		int[] hourTable = {0,2,4,6};
 		int[] feeTable = {30,50,80,100};
-		System.out.println("°±¨®®É¼Æ¡G" + hours + "¤p®É");
+		System.out.println("åœè»Šæ™‚æ•¸ï¼š" + hours + "å°æ™‚");
 		for(int i=3;i>=0;i--) {
 			if(hours>hourTable[i]) {
 				fee += (hours-hourTable[i])*feeTable[i];
 				hours = hourTable[i];
 			}
 		}
-		System.out.println("À³Ãº¶O¥Î¡G" + fee + "¤¸¾ã");
+		/*
+		int i = 3;
+		while(i >= 0) {
+		    if(hours > hourTable[i]) {
+			fee += (hours - hourTable[i])* feeTable[i];
+			hours = hourTable[i];
+		    }
+		    i--;
+		}
+		*/
+		System.out.println("æ‡‰ç¹³è²»ç”¨ï¼š" + fee + "å…ƒæ•´");
 	}
 
 }
